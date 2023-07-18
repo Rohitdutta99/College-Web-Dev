@@ -28,6 +28,7 @@ hr{
     color: cadetblue;
     border-top: 8px dotted;
     width: 300px;
+    align-items: center;
 }
 
 .logo{
